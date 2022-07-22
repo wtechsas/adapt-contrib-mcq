@@ -6,8 +6,8 @@
   "bugs": "https://github.com/wtechsas/adapt-contrib-mcq/issues",
   "component" : "mcq",
   "targetAttribute": "_mcq",
-  "displayName" : "Cuestionario de selección multiple",
-  "description": "Un componente que permite realizar preguntas de selección multiple",
+  "displayName" : "Cuestionario de selección múltiple",
+  "description": "Un componente que permite realizar preguntas de selección múltiple",
   "main": "/js/adapt-contrib-mcq.js",
   "keywords": [
     "adapt-plugin",
