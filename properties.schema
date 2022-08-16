@@ -329,7 +329,7 @@
         },
         "_reset": {
           "type": "object",
-          "title": "Reset",
+          "title": "Reintentar",
           "properties": {
             "buttonText": {
               "type": "string",
@@ -338,7 +338,7 @@
               "title": "Texto del botón",
               "inputType": "QuestionButton",
               "validators": [],
-              "help": "Texto para el botón de Reintentar",
+              "help": "Texto para el botón de reintentar",
               "translatable": true
             },
             "ariaLabel": {
@@ -348,7 +348,7 @@
               "title": "Texto - Aria label",
               "inputType": "QuestionButton",
               "validators": [],
-              "help": "Texto de la etiqueta de Aria para el botón de Reintentar",
+              "help": "Texto de la etiqueta de Aria para el botón de reintentar",
               "translatable": true
             }
           }
