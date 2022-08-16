@@ -334,21 +334,21 @@
             "buttonText": {
               "type": "string",
               "required": false,
-              "default": "Reiniciar",
+              "default": "Reintentar",
               "title": "Texto del botón",
               "inputType": "QuestionButton",
               "validators": [],
-              "help": "Texto para el botón de Reiniciar",
+              "help": "Texto para el botón de Reintentar",
               "translatable": true
             },
             "ariaLabel": {
               "type": "string",
               "required": false,
-              "default": "Reiniciar",
+              "default": "Reintentar",
               "title": "Texto - Aria label",
               "inputType": "QuestionButton",
               "validators": [],
-              "help": "Texto de la etiqueta de Aria para el botón de Reiniciar",
+              "help": "Texto de la etiqueta de Aria para el botón de Reintentar",
               "translatable": true
             }
           }
