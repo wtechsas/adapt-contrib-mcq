@@ -192,7 +192,7 @@
     "_hasItemScoring": {
       "type": "boolean",
       "required": false,
-      "default": false,
+      "default": true,
       "title": "Habilitar puntuación de elementos",
       "inputType": "Checkbox",
       "validators": [],
